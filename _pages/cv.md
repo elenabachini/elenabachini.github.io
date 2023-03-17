@@ -31,3 +31,33 @@ Research experience
   topic "Modelli 2D e 3D di flusso in mezzi porosi con
   anisotropia"
   * Dept. of Geosciences, University of Padua, Italy
+
+Project participations
+=====
+* Research Unit <em>“Vector- and Tensor-Valued Surface PDEs” (FOR 3013)</em>, German Research Foundation - DFG (PI Axel Voigt)
+
+* <em>"HYDROSEM: Fluvial and tidal meanders of the Venetian-Po plain: from hydro- dynamics to stratigraphy”</em> project (Progetto di Eccellenza CARIPARO 2017, PI Massimiliano Ghinassi)
+
+* UniPD-SID-2016 project <em>“Approximation and discretization of PDEs on Manifolds for Environmental Modeling”</em>, University of Padua (PI Mario Putti)
+
+Awards and fellowships
+=====
+* 2020  Nomination from the Doctoral School of Mathematical Sciences to the national prize “con.Science”
+
+* 2018  Grant for a (6 months) period abroad from “Fondazione Ing. Aldo Gini”
+
+* 2014  <em>ERASMUS+ Programme</em> scholarship for a (1 semester) period abroad
+
+Reviewer for
+=====
+* ESAIM: Mathematical Modelling and Numerical Analysis
+* Mathematics and Computers in Simulation
+* Applied Mathematics and Computation
+* Mathematical and Computational Applications
+* Communications in Computational Physics
+
+Scientific societies
+=====
+* from 2022 Member of “European Women in Mathematics”
+* from 2017 Member of the “Gruppo Nazionale Calcolo Scientifico” (GNCS) of the Istituto di Alta Matematica (INdAM)
+* 2019-2020 Member of “SIAM Geosciences” and “SIAM Computational Science and Engineering”

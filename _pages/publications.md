@@ -14,18 +14,19 @@ author_profile: true
 ## In preparation
 <ul>
 <li>
-E. Bachini and M. Putti. Convergence analysis of the intrinsic surface finite element method. <em>arXiv</em>, 2022. [<a href="https://arxiv.org/abs/2203.07330" target="_blank">arXiv:2203.07330</a>]
+<b>E. Bachini</b> and M. Putti. Convergence analysis of the intrinsic surface finite element method. <em>arXiv</em>, 2022. [<a href="https://arxiv.org/abs/2203.07330" target="_blank">arXiv:2203.07330</a>]
 </li>
 </ul>
 
 ## Submitted
 <ul>
 <li>
-<b>E. Bachini</b>, V. Krause, A. Voigt. The interplay of geometry and coarsening in multicomponent lipid vesicles under the influence of hydrodynamics. <em>Phys. FLuids</em>, under review, 2023. [<a href="https://arxiv.org/abs/2302.04028" target="_blank">arXiv:2302.04028</a>]
+<b>E. Bachini</b>, V. Krause, A. Voigt. The interplay of geometry and coarsening in multicomponent lipid vesicles under the influence of hydrodynamics. <em>Phys. Fluids</em>, under review, 2023. [<a href="https://arxiv.org/abs/2302.04028" target="_blank">arXiv:2302.04028</a>]
 </li>
 <li>
 <b>E. Bachini</b>, P. Bandner, T. Jankuhn, M. Nestler, S. Praetorius, A. Reusken, and A. Voigt. Diffusion of tangential tensor fields: numerical issues and influence of geometric properties. <em>J. Numer. Math.</em>, under review, 2022.  [<a href="https://arxiv.org/abs/2205.12581" target="_blank">arXiv:2205.12581</a>]
 </li>
+</ul>
 
 ## Published
 <ul>
