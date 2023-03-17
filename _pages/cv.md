@@ -17,7 +17,7 @@ Education
 
 Research experience
 =====
-* Apr 2021 - Mar 2023: Research associate in the research project group <em>"FOR3013: Vector and Tensor Valued Surface PDEs"</em>
+* Apr 2021 - Mar 2023: Research associate in the research project group <em>"FOR3013: Vector and Tensor Valued Surface PDEs"</em>
   * Institute of Scientific Computing, TU Dresden, Germany
 
 * Jul 2020 - Mar 2021: Postdoctoral fellowship for the research project <em>"Development of a numerical model for the solution of strongly anisotropic flow and transport equations in porous media"</em>
