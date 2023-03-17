@@ -42,11 +42,11 @@ Project participations
 
 Awards and fellowships
 =====
-* 2020  Nomination from the Doctoral School of Mathematical Sciences to the national prize “con.Science”
+* 2020 - Nomination from the Doctoral School of Mathematical Sciences to the national prize “con.Science”
 
-* 2018  Grant for a (6 months) period abroad from “Fondazione Ing. Aldo Gini”
+* 2018 - Grant for a (6 months) period abroad from “Fondazione Ing. Aldo Gini”
 
-* 2014  <em>ERASMUS+ Programme</em> scholarship for a (1 semester) period abroad
+* 2014 - <em>ERASMUS+ Programme</em> scholarship for a (1 semester) period abroad
 
 Reviewer for
 =====
@@ -58,6 +58,6 @@ Reviewer for
 
 Scientific societies
 =====
-* from 2022 Member of “European Women in Mathematics”
-* from 2017 Member of the “Gruppo Nazionale Calcolo Scientifico” (GNCS) of the Istituto di Alta Matematica (INdAM)
-* 2019-2020 Member of “SIAM Geosciences” and “SIAM Computational Science and Engineering”
+* from 2022 - Member of “European Women in Mathematics”
+* from 2017 - Member of the “Gruppo Nazionale Calcolo Scientifico” (GNCS) of the Istituto di Alta Matematica (INdAM)
+* 2019-2020 - Member of “SIAM Geosciences” and “SIAM Computational Science and Engineering”
