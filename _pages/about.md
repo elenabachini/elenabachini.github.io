@@ -18,7 +18,7 @@ I then pursued the Doctoral degree in Mathematical Sciences
 (Curriculum Computational Mathematics) from the University of
 Padua, Italy (2020).
 
-My PhD thesis was focused on the modeling of shallow-water equations
+My [PhD thesis](https://dottorato.math.unipd.it/sites/default/files/tesi_Elena_Bachini.pdf) was focused on the modeling of shallow-water equations
 on general topography and on the implementation of suitable
 numerical schemes.
 
