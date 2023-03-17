@@ -17,19 +17,13 @@ Education
 
 Research experience
 =====
-* Apr 2021 - Mar 2023: Postdoctoral fellowship at the Institute of
-  Scientific Computing
+* Apr 2021 - Mar 2023: Postdoctoral fellowship at the Institute of Scientific Computing
   * Dept. of Mathematics, TU Dresden, Germany
 
-* Jul 2020 - Mar 2021: Postdoctoral fellowship
-  for the research project "Development of a numerical model for the
-  solution of strongly anisotropic flow and transport equations in
-  porous media"
+* Jul 2020 - Mar 2021: Postdoctoral fellowship for the research project "Development of a numerical model for the solution of strongly anisotropic flow and transport equations in porous media"
   * Dept. of Geosciences, University of Padua, Italy
 
-* Apr - Jun 2020: Research grant on the
-  topic "Modelli 2D e 3D di flusso in mezzi porosi con
-  anisotropia"
+* Apr - Jun 2020: Research grant on the topic "Modelli 2D e 3D di flusso in mezzi porosi con anisotropia"
   * Dept. of Geosciences, University of Padua, Italy
 
 Project participations
