@@ -25,6 +25,14 @@ Research experience
 
 * Apr - Jun 2020: Research grant on the topic <em>"Modelli 2D e 3D di flusso in mezzi porosi con anisotropia"</em>
   * Dept. of Geosciences, University of Padua, Italy
+  
+International mobility
+=====
+* Sep 2018 - Mar 2019: <em>Visiting PhD student</em> at “Oden Institute for Computational Engineering and Sciences”. University of Texas at Austin, Austin (TX), USA (Working under the supervision of Prof. C. Dawson in the Computational Hydraulics Group)
+
+* 23 Aug - 10 Sep 2015: <em>VSRP - Applied Differential Equations Workshop</em>. KAUST, Saudi Arabia
+
+* Feb - Jul 2015: <em>ERASMUS+ Programme</em>. IST, Lisbon, Portugal
 
 Project participations
 =====
