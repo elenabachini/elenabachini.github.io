@@ -28,7 +28,7 @@ Research experience
 
 Project participations
 =====
-* Research Unit <em>“Vector- and Tensor-Valued Surface PDEs” (FOR 3013)</em>, German Research Foundation - DFG (PI Axel Voigt)
+* Research Unit <em>“Vector- and Tensor-Valued Surface PDEs” (FOR 3013)</em>, German Research Foundation DFG (PI Axel Voigt)
 
 * <em>"HYDROSEM: Fluvial and tidal meanders of the Venetian-Po plain: from hydro- dynamics to stratigraphy”</em> project (Progetto di Eccellenza CARIPARO 2017, PI Massimiliano Ghinassi)
 
