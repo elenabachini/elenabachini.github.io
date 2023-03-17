@@ -17,20 +17,20 @@ Education
 
 Research experience
 =====
-* Apr 2021 - Mar 2023: Postdoctoral fellowship at the Institute of Scientific Computing
-  * Dept. of Mathematics, TU Dresden, Germany
+* Apr 2021 - Mar 2023: Research associate in the research project group <em>"FOR3013: Vector and Tensor Valued Surface PDEs"</em>
+  * Institute of Scientific Computing, TU Dresden, Germany
 
-* Jul 2020 - Mar 2021: Postdoctoral fellowship for the research project "Development of a numerical model for the solution of strongly anisotropic flow and transport equations in porous media"
+* Jul 2020 - Mar 2021: Postdoctoral fellowship for the research project <em>"Development of a numerical model for the solution of strongly anisotropic flow and transport equations in porous media"</em>
   * Dept. of Geosciences, University of Padua, Italy
 
-* Apr - Jun 2020: Research grant on the topic "Modelli 2D e 3D di flusso in mezzi porosi con anisotropia"
+* Apr - Jun 2020: Research grant on the topic <em>"Modelli 2D e 3D di flusso in mezzi porosi con anisotropia"</em>
   * Dept. of Geosciences, University of Padua, Italy
 
 Project participations
 =====
 * Research Unit <em>“Vector- and Tensor-Valued Surface PDEs” (FOR 3013)</em>, German Research Foundation DFG (PI Axel Voigt)
 
-* <em>"HYDROSEM: Fluvial and tidal meanders of the Venetian-Po plain: from hydro- dynamics to stratigraphy”</em> project (Progetto di Eccellenza CARIPARO 2017, PI Massimiliano Ghinassi)
+* <em>"HYDROSEM: Fluvial and tidal meanders of the Venetian-Po plain: from hydrodynamics to stratigraphy”</em> project (Progetto di Eccellenza CARIPARO 2017, PI Massimiliano Ghinassi)
 
 * UniPD-SID-2016 project <em>“Approximation and discretization of PDEs on Manifolds for Environmental Modeling”</em>, University of Padua (PI Mario Putti)
 
