@@ -8,23 +8,21 @@ author_profile: true
 {% include base_path %}
 
 ## Teaching and tutoring
+* a.a. 2022/23 (second semester) 
+    * <em>"Calcolo Numerico”</em>, first cycle degree in Energy/Mechanical Engineering, University of Padua. Teaching (16h.)
 
-* Oct 2022 - Feb 2023: Research assistance for the
-course <em>“Computational Mathematics Project”</em>, Computational
-Mathematics (master) curriculum, TU Dresden
+* a.a. 2022/23 (first semester)
+    * Research assistance for the course <em>“Computational Mathematics Project”</em>, Computational Mathematics (master) curriculum, TU Dresden
 
-* Sept 2020 - Jan 2021: <em>“Matematica”</em>, first cycle degree in
-Agricultural Sciences and Technology, University of Padua. Didattica
-integrativa (30h.)
+* a.a. 2020/21 (first semester)
+    * <em>“Matematica”</em>, first cycle degree in Agricultural Sciences and Technology, University of Padua. Didattica integrativa (30h.)
 
-* Mar - Sept 2020: <em>"Calcolo Numerico”</em>, first cycle degree in
-Chemical and Materials Engineering, Uni- versity of Padua. Teaching
-(48h.)
+* a.a. 2019/20 (second semester) 
+    * <em>"Calcolo Numerico”</em>, first cycle degree in Chemical and Materials Engineering, University of Padua. Teaching (48h.)
+    * <em>“Calcolo Numerico”</em>, first cycle degree in Computer Science, University of Padua. Didattica integrativa (16h.)
 
-* Mar - Jun 2020: <em>“Calcolo Numerico”</em>, first cycle degree in
-Computer Science, University of Padua. Didattica integrativa (16h.)
-
-* Oct 2016 - Jan 2017: Tutor for the course <em>”Analisi Matematica 1”</em> held by Prof. Olga Bernardi, University of Padua
+* a.a. 2016/17 (first semester)
+    * Tutor for the course <em>”Analisi Matematica 1”</em> held by Prof. Olga Bernardi, University of Padua (first semester)
 
 ## Supervision
 
