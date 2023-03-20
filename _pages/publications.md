@@ -21,15 +21,15 @@ author_profile: true
 ## Submitted
 <ul>
 <li>
-<b>E. Bachini</b>, V. Krause, A. Voigt. The interplay of geometry and coarsening in multicomponent lipid vesicles under the influence of hydrodynamics. <em>Phys. Fluids</em>, under review, 2023. [<a href="https://arxiv.org/abs/2302.04028" target="_blank">arXiv:2302.04028</a>]
-</li>
-<li>
 <b>E. Bachini</b>, P. Bandner, T. Jankuhn, M. Nestler, S. Praetorius, A. Reusken, and A. Voigt. Diffusion of tangential tensor fields: numerical issues and influence of geometric properties. <em>J. Numer. Math.</em>, under review, 2022.  [<a href="https://arxiv.org/abs/2205.12581" target="_blank">arXiv:2205.12581</a>]
 </li>
 </ul>
 
 ## Published
 <ul>
+<li>
+<b>E. Bachini</b>, V. Krause, A. Voigt. The interplay of geometry and coarsening in multicomponent lipid vesicles under the influence of hydrodynamics. <em>Phys. Fluids</em>, accepted, 2023. [<a href="https://arxiv.org/abs/2302.04028" target="_blank">arXiv:2302.04028</a>]
+</li>
 <li>
 E. Abreu, <b>E. Bachini</b>, J. Perez, and M. Putti. A geometrically intrinsic Lagrangian-Eulerian scheme for 2D shallow water equations with variable topography and discontinuous data. <em>Appl. Math. Comput.</em>, 443:127776, 2023. [<a href="https://doi.org/10.1016/j.amc.2022.127776" target="_blank">DOI</a>] 
 </li>
