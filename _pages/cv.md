@@ -28,7 +28,7 @@ Research experience
   
 International mobility
 =====
-* Sep 2018 - Mar 2019: <em>Visiting PhD student</em> at “Oden Institute for Computational Engineering and Sciences”. University of Texas at Austin, Austin (TX), USA (Working under the supervision of Prof. C. Dawson in the Computational Hydraulics Group)
+* Sep 2018 - Mar 2019: <em>Visiting PhD student</em> at “Oden Institute for Computational Engineering and Sciences” (Working with Prof. C. Dawson). University of Texas at Austin, Austin (TX), USA
 
 * 23 Aug - 10 Sep 2015: <em>VSRP - Applied Differential Equations Workshop</em>. KAUST, Saudi Arabia
 
@@ -44,7 +44,7 @@ Project participations
 
 Awards and fellowships
 =====
-* 2020: Nomination from the Doctoral School of Mathematical Sciences to the national prize “con.Science”
+* 2020: Nomination from the Doctoral School of Mathematical Sciences (University of Padua) to the national prize “con.Science”
 
 * 2018: Grant for a (6 months) period abroad from “Fondazione Ing. Aldo Gini”
 
