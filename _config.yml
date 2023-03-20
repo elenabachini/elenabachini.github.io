@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Elena Bachini"
 title_separator          : "-"
-name                     : &name "Elena Bachini, PhD"
-description              : &description "Research associate at TU Dresden"
+name                     : &name "Elena Bachini"
+description              : &description "My personal website"
 url                      : https://elenabachini.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "elenabachini.github.io"
