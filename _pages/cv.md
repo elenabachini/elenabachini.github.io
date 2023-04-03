@@ -17,10 +17,13 @@ Education
 
 Research experience
 =====
-* Apr 2021 - Mar 2023: Research associate in the research project group <em>"FOR3013: Vector and Tensor Valued Surface PDEs"</em>
+* Apr 2023 - present: Researcher (RtdA)
+  * Dept. of Mathematics "Tullio Levi-Civita", University of Padua, Italy
+
+* Apr 2021 - Mar 2023: Research associate 
   * Institute of Scientific Computing, TU Dresden, Germany
 
-* Jul 2020 - Mar 2021: Postdoctoral fellowship for the research project <em>"Development of a numerical model for the solution of strongly anisotropic flow and transport equations in porous media"</em>
+* Jul 2020 - Mar 2021: Postdoctoral fellowship 
   * Dept. of Geosciences, University of Padua, Italy
 
 * Apr - Jun 2020: Research grant on the topic <em>"Modelli 2D e 3D di flusso in mezzi porosi con anisotropia"</em>
