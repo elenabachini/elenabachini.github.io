@@ -39,7 +39,12 @@ International mobility
 
 Project participations
 =====
+* <em>"RETURN - multi-Risk sciEnce for resilienT commUnities undeR a changiNg climate"</em> project, MUR-PNRR  Extended Partnership PE3 on Natural Risks Next-Generation EU (Scientific head Antonia Larese)
+
 * Research Unit <em>“Vector- and Tensor-Valued Surface PDEs” (FOR 3013)</em>, German Research Foundation DFG (PI Axel Voigt)
+
+* <em>"NEMESIS - NumErical MEthods for the SImulation of the impact of extreme hazards on
+Structures and landscape"</em> project, University of Padua (PI Antonia Larese)
 
 * <em>"HYDROSEM: Fluvial and tidal meanders of the Venetian-Po plain: from hydrodynamics to stratigraphy”</em> project (Progetto di Eccellenza CARIPARO 2017, PI Massimiliano Ghinassi)
 
