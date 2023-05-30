@@ -21,9 +21,10 @@ author_profile: true
 ## Submitted
 <ul>
 <li>
-<b>E. Bachini</b>, V. Krause, I. Nitschke, A. Voigt. Derivation and simulation of a two-phase fluid deformable surface model. <em>J. Fluid Mech.</em>, under review, 2023.
+<b>E. Bachini</b>, V. Krause, I. Nitschke, A. Voigt. Derivation and simulation of a two-phase fluid deformable surface model. <em>J. Fluid Mech.</em>, under review, 2023.  [<a href="https://arxiv.org/abs/2305.15147" target="_blank">arXiv:2305.15147</a>]
 </li>
 </ul>
+
 
 ## Published
 <ul>
