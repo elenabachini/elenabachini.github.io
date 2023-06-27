@@ -17,7 +17,7 @@ Education
 
 Research experience
 =====
-* Apr 2023 - present: Researcher (RtdA)
+* Apr 2023 - present: Assistant professor (RtdA)
   * Dept. of Mathematics "Tullio Levi-Civita", University of Padua, Italy
 
 * Apr 2021 - Mar 2023: Research associate 
