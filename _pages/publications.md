@@ -29,7 +29,7 @@ author_profile: true
 ## Published
 <ul>
 <li>
-<b>E. Bachini</b>, P. Bandner, T. Jankuhn, M. Nestler, S. Praetorius, A. Reusken, and A. Voigt. Diffusion of tangential tensor fields: numerical issues and influence of geometric properties. <em>J. Numer. Math.</em>, accepted, 2023.  [<a href="https://arxiv.org/abs/2205.12581" target="_blank">arXiv:2205.12581</a>]
+<b>E. Bachini</b>, P. Bandner, T. Jankuhn, M. Nestler, S. Praetorius, A. Reusken, and A. Voigt. Diffusion of tangential tensor fields: numerical issues and influence of geometric properties. <em>J. Numer. Math.</em>, in publication, 2023. [<a href="https://doi.org/10.1515/jnma-2022-0088" target="_blank">DOI</a>] 
 </li>
 <li>
 <b>E. Bachini</b>, V. Krause, A. Voigt. The interplay of geometry and coarsening in multicomponent lipid vesicles under the influence of hydrodynamics. <em>Phys. Fluids</em>, 35:042102, 2023.  [<a href="https://doi.org/10.1063/5.0145884" target="_blank">DOI</a>] 
