@@ -7,7 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-## Teaching and tutoring
+## Teaching
+* a.y. 2023/24 
+    * <em>"Calcolo Numerico”</em>, first cycle degree in Chemical and Materials Engineering, University of Padua. Teaching (canale A)
+
+## Teaching assistance and tutoring
 * a.y. 2022/23 
     * <em>"Calcolo Numerico”</em>, first cycle degree in Energy/Mechanical Engineering, University of Padua. Teaching (16h.)
     * Research assistance for the course <em>“Computational Mathematics Project”</em>, Computational Mathematics (master) curriculum, TU Dresden
