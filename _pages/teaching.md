@@ -9,7 +9,7 @@ author_profile: true
 
 ## Teaching
 * a.y. 2023/24 
-    * <em>"Calcolo Numerico”</em>, first cycle degree in Chemical and Materials Engineering, University of Padua. Teaching (canale A)
+    * <em>"Calcolo Numerico”</em>, first cycle degree in Chemical and Materials Engineering, University of Padua. Teaching (56h.)
 
 ## Teaching assistance and tutoring
 * a.y. 2022/23 
