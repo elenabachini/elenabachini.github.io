@@ -63,7 +63,9 @@ Reviewer for
 * Applied Mathematics and Computation
 * BUMI - Bollettino dell'Unione Matematica Italiana
 * Communications in Computational Physics
+* Computational Geosciences
 * ESAIM: Mathematical Modelling and Numerical Analysis
+* Journal of Computational Physics
 * Mathematical and Computational Applications
 * Mathematics and Computers in Simulation
 

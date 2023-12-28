@@ -19,17 +19,15 @@ author_profile: true
 </ul>
 
 ## Submitted
-<ul>
-<li>
-<b>E. Bachini</b>, V. Krause, I. Nitschke, A. Voigt. Derivation and simulation of a two-phase fluid deformable surface model. <em>J. Fluid Mech.</em>, under review, 2023.  [<a href="https://arxiv.org/abs/2305.15147" target="_blank">arXiv:2305.15147</a>]
-</li>
-</ul>
 
 
 ## Published
 <ul>
 <li>
-<b>E. Bachini</b>, P. Bandner, T. Jankuhn, M. Nestler, S. Praetorius, A. Reusken, and A. Voigt. Diffusion of tangential tensor fields: numerical issues and influence of geometric properties. <em>J. Numer. Math.</em>, in publication, 2023. [<a href="https://doi.org/10.1515/jnma-2022-0088" target="_blank">DOI</a>] 
+<b>E. Bachini</b>, V. Krause, I. Nitschke, A. Voigt. Derivation and simulation of a two-phase fluid deformable surface model. <em>J. Fluid Mech.</em>, 977:A41, 2023.  [<a href="https://doi.org/10.1017/jfm.2023.943" target="_blank">DOI</a>]
+</li>
+<li>
+<b>E. Bachini</b>, P. Bandner, T. Jankuhn, M. Nestler, S. Praetorius, A. Reusken, and A. Voigt. Diffusion of tangential tensor fields: numerical issues and influence of geometric properties. <em>J. Numer. Math.</em>, 0(0), 2023. [<a href="https://doi.org/10.1515/jnma-2022-0088" target="_blank">DOI</a>] 
 </li>
 <li>
 <b>E. Bachini</b>, V. Krause, A. Voigt. The interplay of geometry and coarsening in multicomponent lipid vesicles under the influence of hydrodynamics. <em>Phys. Fluids</em>, 35:042102, 2023.  [<a href="https://doi.org/10.1063/5.0145884" target="_blank">DOI</a>] 
