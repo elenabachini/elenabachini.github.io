@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Extended version of the CV **[here](/files/CV_Elena_Bachini.pdf)** (update: January 30, 2024)
+
 Education
 ======
 * 2013 - B.S. in Mathematics, University of Pisa, Italy 
