@@ -62,6 +62,7 @@ Awards and fellowships
 
 Reviewer for
 =====
+* AIMS Mathematics
 * Applied Mathematics and Computation
 * BUMI - Bollettino dell'Unione Matematica Italiana
 * Communications in Computational Physics
@@ -74,6 +75,7 @@ Reviewer for
 
 Scientific societies
 =====
+* from 2024: Member of ``AIMETA'', member of ``UMI-SIMAI''
 * from 2022: Member of “European Women in Mathematics”
 * from 2017: Member of the “Gruppo Nazionale Calcolo Scientifico” (GNCS) of the Istituto di Alta Matematica (INdAM)
 * 2019-2020: Member of “SIAM Geosciences” and “SIAM Computational Science and Engineering”
