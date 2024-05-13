@@ -14,11 +14,18 @@ author_profile: true
 ## In preparation
 <ul>
 <li>
+<b>E. Bachini</b>, M. Camporese, A. Larese. 
+  Shallow water equations versus zero-inertia
+approximation within a geometrically intrinsic framework. <em>In preparation</em>.
+</li>
+<li>
+<b>E. Bachini</b>, C. Janna, A. Larese, G. Scovazzi. Including
+  low-dimensional features in 2D surface models. <em>In preparation</em>.
+</li>
+<li>
 <b>E. Bachini</b> and M. Putti. Convergence analysis of the intrinsic surface finite element method. <em>arXiv</em>, 2022. [<a href="https://arxiv.org/abs/2203.07330" target="_blank">arXiv:2203.07330</a>]
 </li>
 </ul>
-
-## Submitted
 
 
 ## Published
