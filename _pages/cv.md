@@ -45,7 +45,7 @@ Project participations
 Next-Generation EU, 01/10/2021-31/03/2026 (Scientific head A. Larese)
 
 * <em> ''REACT - Digital Twins of Civil StRucturEs And Protection
-  Systems in A ClimAte Change PerspecTive'' <\em> project, TUM-IAS
+  Systems in A ClimAte Change PerspecTive'' </em> project, TUM-IAS
   (Germany), 01/10/2021-30/09/2024 (PI A. Larese)
 
 * Research Unit <em>“Vector- and Tensor-Valued Surface PDEs” (FOR 3013)</em>, German Research Foundation DFG (PI A. Voigt)
