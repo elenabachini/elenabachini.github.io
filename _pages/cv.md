@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Extended version of the CV [here](/files/CV_Elena_Bachini.pdf) (last update: January 30, 2024)
+Extended version of the CV [here](/files/CV_Elena_Bachini.pdf) (last update: May 13, 2024)
 
 Education
 ======
-* 2013 - B.S. in Mathematics, University of Pisa, Italy 
-* 2016 - M.S. in Mathematics, University of Padua, Italy
 * 2020 - Ph.D in Computational Mathematics, University of Padua, Italy 
+* 2016 - M.S. in Mathematics, University of Padua, Italy
+* 2013 - B.S. in Mathematics, University of Pisa, Italy 
 
 Research experience
 =====
@@ -41,16 +41,21 @@ International mobility
 
 Project participations
 =====
-* <em>"RETURN - multi-Risk sciEnce for resilienT commUnities undeR a changiNg climate"</em> project, MUR-PNRR  Extended Partnership PE3 on Natural Risks Next-Generation EU (Scientific head Antonia Larese)
+* <em>"RETURN - multi-Risk sciEnce for resilienT commUnities undeR a changiNg climate"</em> project,  MUR-PNRR Extended Partnership PE5 on Natural Risks
+Next-Generation EU, 01/10/2021-31/03/2026 (Scientific head A. Larese)
 
-* Research Unit <em>“Vector- and Tensor-Valued Surface PDEs” (FOR 3013)</em>, German Research Foundation DFG (PI Axel Voigt)
+* <em> ''REACT - Digital Twins of Civil StRucturEs And Protection
+  Systems in A ClimAte Change PerspecTive'' <\em> project, TUM-IAS
+  (Germany), 01/10/2021-30/09/2024 (PI A. Larese)
+
+* Research Unit <em>“Vector- and Tensor-Valued Surface PDEs” (FOR 3013)</em>, German Research Foundation DFG (PI A. Voigt)
 
 * <em>"NEMESIS - NumErical MEthods for the SImulation of the impact of extreme hazards on
-Structures and landscape"</em> project, University of Padua (PI Antonia Larese)
+Structures and landscape"</em> project, University of Padua (PI A. Larese)
 
-* <em>"HYDROSEM: Fluvial and tidal meanders of the Venetian-Po plain: from hydrodynamics to stratigraphy”</em> project (Progetto di Eccellenza CARIPARO 2017, PI Massimiliano Ghinassi)
+* <em>"HYDROSEM: Fluvial and tidal meanders of the Venetian-Po plain: from hydrodynamics to stratigraphy”</em> project (Progetto di Eccellenza CARIPARO 2017, PI M. Ghinassi)
 
-* UniPD-SID-2016 project <em>“Approximation and discretization of PDEs on Manifolds for Environmental Modeling”</em>, University of Padua (PI Mario Putti)
+* UniPD-SID-2016 project <em>“Approximation and discretization of PDEs on Manifolds for Environmental Modeling”</em>, University of Padua (PI M. Putti)
 
 Awards and fellowships
 =====
@@ -75,7 +80,7 @@ Reviewer for
 
 Scientific societies
 =====
-* from 2024: Member of ``AIMETA'', member of ``UMI-SIMAI''
-* from 2022: Member of “European Women in Mathematics”
+* from 2024: Member of "AIMETA", member of "UMI-SIMAI"
+* from 2022: Member of "European Women in Mathematics"
 * from 2017: Member of the “Gruppo Nazionale Calcolo Scientifico” (GNCS) of the Istituto di Alta Matematica (INdAM)
 * 2019-2020: Member of “SIAM Geosciences” and “SIAM Computational Science and Engineering”
