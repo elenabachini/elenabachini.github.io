@@ -15,7 +15,9 @@ personal aspirations is to contribute with my expertise to the
 solution of problems with social and environmental impacts.
 
 
-## Research Interests * <b>Development of numerical methods adapted to
+## Research Interests
+
+* <b>Development of numerical methods adapted to
 the geometry for PDEs on surfaces</b>: intrinsic surface finite
 elements methods, high-order virtual elements method, unfitted methods
 for embedded low-dimensional features.
