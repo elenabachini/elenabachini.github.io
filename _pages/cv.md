@@ -41,9 +41,9 @@ International mobility
 
 Project participations
 =====
-*<em> "MONUGEO - Modern numerical methods for high-fidelity simulation of geohazards"</em> project, HORIZON-MSCA-2023-SE-01, 01/03/2025-28/02/2029
+* <em> "MONUGEO - Modern numerical methods for high-fidelity simulation of geohazards"</em> project, HORIZON-MSCA-2023-SE-01, 01/03/2025-28/02/2029
 
-*<em> "ReLUIS - Rete dei Laboratori Universitari
+* <em> "ReLUIS - Rete dei Laboratori Universitari
   di Ingegneria Sismica e Strutturale"</em> project, DPC-ReLUIS 2024-2026
   
 * <em>"RETURN - multi-Risk sciEnce for resilienT commUnities undeR a changiNg climate"</em> project,  MUR-PNRR Extended Partnership PE5 on Natural Risks
