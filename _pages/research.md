@@ -24,7 +24,7 @@ solution of problems with social and environmental impacts.
   surface fluid flows, including shallow water equations and two-phase
   flow with curvature effects on stationary and evolving surfaces.
   
-* Modeling of <b>Intrinsic Shallow Water Equations (ISWE) on fixed and
+* <b>Intrinsic Shallow Water Equations (ISWE) on fixed and
   moving surfaces:</b> modeling and development of numerical methods
   to solve ISWE (finite volumes with Eulerian and Lagrangian-Eulerian
   approach, discontinuous Galerkin scheme, continuous Galerkin with
