@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Extended version of the CV [here](/files/CV_Elena_Bachini.pdf) (last update: May 13, 2024)
+Extended version of the CV [here](/files/CV_Elena_Bachini.pdf) (last update: August 6, 2024)
 
 Education
 ======
@@ -41,6 +41,11 @@ International mobility
 
 Project participations
 =====
+*<em> "MONUGEO - Modern numerical methods for high-fidelity simulation of geohazards"</em> project, HORIZON-MSCA-2023-SE-01, 01/03/2025-28/02/2029
+
+*<em> "ReLUIS - Rete dei Laboratori Universitari
+  di Ingegneria Sismica e Strutturale"</em> project, DPC-ReLUIS 2024-2026
+  
 * <em>"RETURN - multi-Risk sciEnce for resilienT commUnities undeR a changiNg climate"</em> project,  MUR-PNRR Extended Partnership PE5 on Natural Risks
 Next-Generation EU, 01/10/2021-31/03/2026 (Scientific head A. Larese)
 
@@ -72,6 +77,7 @@ Reviewer for
 * BUMI - Bollettino dell'Unione Matematica Italiana
 * Communications in Computational Physics
 * Computational Geosciences
+* European Journal of Environmental and Civil Engineering
 * ESAIM: Mathematical Modelling and Numerical Analysis
 * Journal of Computational Physics
 * Mathematical and Computational Applications

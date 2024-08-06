@@ -8,21 +8,26 @@ author_profile: true
 {% include base_path %}
 
 ## Teaching
-* a.y. 2023/24 
-    * <em>"Calcolo Numerico”</em>, first cycle degree in Chemical and Materials Engineering, University of Padua
+* a.y. 2024/25
+    * <em>"Modeling and big data for biological
+  systems"</em>, doctoral course in Crop Science, University of
+  Padua. (Co-organizer and teacher, 12h)
+
+* from a.y. 2023/24 
+    * <em>"Calcolo Numerico”</em>, first cycle degree in Chemical and Materials Engineering (canale A), University of Padua
 
 * a.y. 2022/23 
-    * <em>"Calcolo Numerico”</em>, first cycle degree in Energy/Mechanical Engineering, University of Padua. (Teaching, 16h.)
-    * Research assistance for the course <em>“Computational Mathematics Project”</em>, Computational Mathematics (master) curriculum, TU Dresden
+    * <em>"Calcolo Numerico”</em>, first cycle degree in Energy/Mechanical Engineering, University of Padua. (Teacher, 16h)
+    * <em>“Computational Mathematics Project”</em>, Computational Mathematics (master) curriculum, TU Dresden (Research assistance)
 
 * a.y. 2020/21 
-    * <em>“Matematica”</em>, first cycle degree in Agricultural Sciences and Technology, University of Padua. (Didattica integrativa, 30h.)
+    * <em>“Matematica”</em>, first cycle degree in Agricultural Sciences and Technology, University of Padua. (Didattica integrativa, 30h)
 
 * a.y. 2019/20 
-    * <em>"Calcolo Numerico”</em>, first cycle degree in Chemical and Materials Engineering (Teaching, 48h.) and in Computer Science (Didattica integrativa, 16h.), University of Padua
+    * <em>"Calcolo Numerico”</em>, first cycle degree in Chemical and Materials Engineering (Teacher, 48h) and in Computer Science (Didattica integrativa, 16h), University of Padua
 
 * a.y. 2016/17 
-    * Tutor for the course <em>”Analisi Matematica 1”</em> held by Prof. Olga Bernardi, University of Padua
+    * <em>”Analisi Matematica 1”</em> held by Prof. Olga Bernardi, University of Padua (Tutor)
 
 ## Supervision
 

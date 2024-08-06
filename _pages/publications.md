@@ -23,6 +23,19 @@ approximation within a geometrically intrinsic framework. <em>In preparation</em
   low-dimensional features in 2D surface models. <em>In preparation</em>.
 </li>
 <li>
+<b>E. Bachini</b> and A. Voigt. Intrinsic surface finite
+  element method for vector Laplacian on surfaces. <em>In preparation</em>.
+</li>
+<li>
+<b>E. Bachini</b>, M.W. Farthing, M. Putti. Intrinsic surface
+  finite element method on a time-dependent surface. <em>In preparation</em>.
+</li>
+<li>
+<b>E. Bachini</b>, C. Dawson, M.W. Farthing,
+  M. Putti. Intrinsic Discontinuos Galerkin scheme for SWE on
+  surfaces. <em>In preparation</em>.
+</li>
+<li>
 <b>E. Bachini</b> and M. Putti. Convergence analysis of the intrinsic surface finite element method. <em>arXiv</em>, 2022. [<a href="https://arxiv.org/abs/2203.07330" target="_blank">arXiv:2203.07330</a>]
 </li>
 </ul>
