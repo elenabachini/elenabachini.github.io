@@ -75,6 +75,6 @@ D. Gomes et al. Existence of positive solutions for an approximation of stationa
 ## Doctoral thesis
 <ul>
 <li>
-<b>E. Bachini</b>. <em>Numerical methods for Shallow Water Equations on regular surfaces</em>. PhD thesis, University of Padua, 2019.  [<a href="https://hdl.handle.net/11577/3422699" target="_blank">url</a>]
+<b>E. Bachini</b>. <em>Numerical methods for Shallow Water Equations on regular surfaces</em>. PhD thesis, University of Padua, 2020.  [<a href="https://hdl.handle.net/11577/3422699" target="_blank">url</a>]
 </li>
 </ul>
