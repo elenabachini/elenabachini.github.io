@@ -51,7 +51,7 @@ Next-Generation EU, 01/10/2021-31/03/2026 (Scientific head A. Larese)
 
 * <em> ''REACT - Digital Twins of Civil StRucturEs And Protection
   Systems in A ClimAte Change PerspecTive'' </em> project, TUM-IAS
-  (Germany), 01/10/2021-30/09/2024 (PI A. Larese)
+  (Germany), 01/10/2021-30/09/2025 (PI A. Larese)
 
 * Research Unit <em>“Vector- and Tensor-Valued Surface PDEs” (FOR 3013)</em>, German Research Foundation DFG (PI A. Voigt)
 
@@ -86,7 +86,7 @@ Reviewer for
 
 Scientific societies
 =====
-* from 2024: Member of "AIMETA", member of "UMI-SIMAI"
-* from 2022: Member of "European Women in Mathematics"
-* from 2017: Member of the “Gruppo Nazionale Calcolo Scientifico” (GNCS) of the Istituto di Alta Matematica (INdAM)
-* 2019-2020: Member of “SIAM Geosciences” and “SIAM Computational Science and Engineering”
+* from 2024: Member of: AIMETA, SIMAI, UMI
+* from 2022: Member of: EWM ("European Women in Mathematics")
+* from 2017: Member of: GNCS-INdAM (“Gruppo Nazionale Calcolo Scientifico dell'Istituto di Alta Matematica")
+* 2019-2020: Member of: SIAM-GS ("SIAM Geosciences”) and SIAM-CSE (“SIAM Computational Science and Engineering”)
