@@ -44,10 +44,10 @@ approximation within a geometrically intrinsic framework. <em>In preparation</em
 ## Published
 <ul>
 <li>
-<b>E. Bachini</b>, V. Krause, I. Nitschke, A. Voigt. Derivation and simulation of a two-phase fluid deformable surface model. <em>J. Fluid Mech.</em>, 977:A41, 2023.  [<a href="https://doi.org/10.1017/jfm.2023.943" target="_blank">DOI</a>]
+<b>E. Bachini</b>, P. Bandner, T. Jankuhn, M. Nestler, S. Praetorius, A. Reusken, and A. Voigt. Diffusion of tangential tensor fields: numerical issues and influence of geometric properties. <em>J. Numer. Math.</em>, 32(1):55-75, 2024. [<a href="https://doi.org/10.1515/jnma-2022-0088" target="_blank">DOI</a>]  [<a href="http://dx.doi.org/10.5281/zenodo.7096487" target="_blank">code</a>] 
 </li>
 <li>
-<b>E. Bachini</b>, P. Bandner, T. Jankuhn, M. Nestler, S. Praetorius, A. Reusken, and A. Voigt. Diffusion of tangential tensor fields: numerical issues and influence of geometric properties. <em>J. Numer. Math.</em>, 32(1):55-75, 2024. [<a href="https://doi.org/10.1515/jnma-2022-0088" target="_blank">DOI</a>]  [<a href="http://dx.doi.org/10.5281/zenodo.7096487" target="_blank">code</a>] 
+<b>E. Bachini</b>, V. Krause, I. Nitschke, A. Voigt. Derivation and simulation of a two-phase fluid deformable surface model. <em>J. Fluid Mech.</em>, 977:A41, 2023.  [<a href="https://doi.org/10.1017/jfm.2023.943" target="_blank">DOI</a>]
 </li>
 <li>
 <b>E. Bachini</b>, V. Krause, A. Voigt. The interplay of geometry and coarsening in multicomponent lipid vesicles under the influence of hydrodynamics. <em>Phys. Fluids</em>, 35:042102, 2023.  [<a href="https://doi.org/10.1063/5.0145884" target="_blank">DOI</a>] 
