@@ -37,9 +37,9 @@ author_profile: true
 ## Thesis Supervision
 
 * Master’s degree thesis in Mathematics, University of Padua
-   * L. Favero, 2022. ``Intrinsic FEM for Vector Laplacian equations'' (co-supervision)
-   * L. Donà, 2020. ``Bathymetry reconstruction via a time-dependent intrinsic shallow water model'' (co-supervision)
+   * L. Favero, 2022. "Intrinsic FEM for Vector Laplacian equations" (co-supervision)
+   * L. Donà, 2020. "Bathymetry reconstruction via a time-dependent intrinsic shallow water model" (co-supervision)
 
 * Master’s degree thesis in Civil Engineering, University of Padua
-   * M. Zurini, 2024. ``Modellazione geometricamente intrinseca delle equazioni delle onde lunghe in acque basse e della loro approssimazione diffusiva'' (co-supervision)
+   * M. Zurini, 2024. "Modellazione geometricamente intrinseca delle equazioni delle onde lunghe in acque basse e della loro approssimazione diffusiva" (co-supervision)
 
