@@ -41,7 +41,7 @@ International mobility
 
 Project participations
 =====
-* <bf> International projects </bf>
+* <b> International projects </b>
   * <em> "MONUGEO - Modern numerical methods for high-fidelity simulation of geohazards"</em> project, HORIZON-MSCA-2023-SE-01, 01/03/2025-28/02/2029
 
   * <em> ''REACT - Digital Twins of Civil StRucturEs And Protection Systems in A ClimAte Change PerspecTive'' </em> project, TUM-IAS
@@ -49,11 +49,11 @@ Project participations
 
   * Research Unit <em>“Vector- and Tensor-Valued Surface PDEs” (FOR 3013)</em>, German Research Foundation DFG (PI A. Voigt)
 
-* <bf> Italian projects </bf>
+* <b> Italian projects </b>
   * <em> "Modelli matematici supportati dall’integrazione di dati per agricoltura sostenibile"</em> project, IndAM-
 GNCS 2025 (Coord. N. Ferro)
 
-     * <em> "ReLUIS - Rete dei Laboratori Universitari
+  * <em> "ReLUIS - Rete dei Laboratori Universitari
   di Ingegneria Sismica e Strutturale"</em> project, DPC-ReLUIS 2024-2026
   
   * <em>"RETURN - multi-Risk sciEnce for resilienT commUnities undeR a changiNg climate"</em> project,  MUR-PNRR Extended Partnership PE5 on Natural Risks Next-Generation EU, 01/10/2021-31/03/2026 (Scientific head A. Larese)
