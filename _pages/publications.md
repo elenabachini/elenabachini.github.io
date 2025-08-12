@@ -36,11 +36,17 @@ approximation within a geometrically intrinsic framework. <em>In preparation</em
   M. Putti. Intrinsic Discontinuos Galerkin scheme for SWE on
   surfaces. <em>In preparation</em>.
 </li>
+</ul>
+
+## Submitted for peer-review
+<ul>
 <li>
 <b>E. Bachini</b> and M. Putti. Convergence analysis of the intrinsic surface finite element method. <em>arXiv</em>, 2024. [<a href="https://arxiv.org/abs/2203.07330" target="_blank">arXiv:2203.07330</a>]
 </li>
+<li>
+E. Abreu, <b>E. Bachini</b>, J. Perez, and M. Putti. A Lagrangian-Eulerian Finite Volume Scheme for ISWE with Localized Discontinuous Topography.  <em>SSRN</em>, 2025  [<a href="https://dx.doi.org/10.2139/ssrn.5387003" target="_blank">DOI</a>] 
+</li>
 </ul>
-
 
 ## Published
 <ul>
