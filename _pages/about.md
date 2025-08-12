@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a <b>fixed-term assistant professor</b> at the Department of Mathematics "Tullio Levi-Civita", University of Padua (Italy).
+I am a <b>fixed-term junior assistant professor</b> at the Department of Mathematics "Tullio Levi-Civita", University of Padua (Italy).
   
 I received the <b>Bachelor degree</b> from the University of Pisa, Italy (2013) and the <b>Master degree</b> from the University of Padua, Italy (2016), both in Mathematics. I then pursued the <b>Doctoral degree</b> in Mathematical Sciences (Curriculum Computational Mathematics) from the University of Padua, Italy (2020).
 
