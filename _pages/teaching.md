@@ -19,10 +19,10 @@ author_profile: true
 
 ## Bachelor degree courses
 * from a.y. 2025/26 
-    * <em>"Calcolo Numerico”</em>, first cycle degree in Mechanical Engineering (canale C), University of Padua
+    * <em>"Calcolo Numerico”</em>, first cycle degree in Mechanical Engineering (group C), University of Padua
 
 * a.y. 2023/24, 2024/25 
-    * <em>"Calcolo Numerico”</em>, first cycle degree in Chemical and Materials Engineering (canale A), University of Padua
+    * <em>"Calcolo Numerico”</em>, first cycle degree in Chemical and Materials Engineering (group A), University of Padua
 
 * a.y. 2022/23 
     * <em>"Calcolo Numerico”</em>, first cycle degree in Energy/Mechanical Engineering, University of Padua. (Teacher, 16h)
