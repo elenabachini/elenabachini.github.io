@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Extended version of the CV [here](/files/CV_Elena_Bachini.pdf) (last update: April, 2025)
+Extended version of the CV [here](/files/CV_Elena_Bachini.pdf) (last update: September, 2025)
 
 Education
 ======
