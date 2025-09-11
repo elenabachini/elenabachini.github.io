@@ -18,7 +18,10 @@ author_profile: true
     * <em>“Computational Mathematics Project”</em>, Computational Mathematics (master) curriculum, TU Dresden (Research assistance)
 
 ## Bachelor degree courses
-* from a.y. 2023/24 
+* from a.y. 2025/26 
+    * <em>"Calcolo Numerico”</em>, first cycle degree in Mechanical Engineering (canale C), University of Padua
+
+* a.y. 2023/24, 2024/25 
     * <em>"Calcolo Numerico”</em>, first cycle degree in Chemical and Materials Engineering (canale A), University of Padua
 
 * a.y. 2022/23 
@@ -36,7 +39,7 @@ author_profile: true
 
 ## Thesis Supervision
 * Master’s degree thesis in Mathematical Engineering, University of Padua
-   * B. Pigato (2025 - ongoing)
+   * B. Pigato (2025). "Intrinsic finite element method for elliptic PDEs on moving surfaces"
 
 * Master’s degree thesis in Civil Engineering, University of Padua
    * M. Zurini (2024). "Modellazione geometricamente intrinseca delle equazioni delle onde lunghe in acque basse e della loro approssimazione diffusiva" (co-supervision)
@@ -47,4 +50,4 @@ author_profile: true
 
 ## Supervision of postdocs
 * Co-supervision of postdoctoral researcher, University of Padua
-  * F. Muraro (2025 - ongoing),  within the “RETURN - multi-Risk sciEnce for resilienT commUnities undeR a changiNg climate” project (supervisor Prof. A. Larese)
+  * F. Muraro (2025),  within the “RETURN - multi-Risk sciEnce for resilienT commUnities undeR a changiNg climate” project (supervisor Prof. A. Larese)
