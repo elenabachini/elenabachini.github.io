@@ -12,7 +12,7 @@ classes: wide
 
 {% include base_path %}
 
-///
+<!---
 ## In preparation
 <ul>
 <li>
@@ -38,7 +38,7 @@ approximation within a geometrically intrinsic framework. <em>In preparation</em
   surfaces. <em>In preparation</em>.
 </li>
 </ul>
-///
+-->
 
 ## Submitted for peer-review
 <ul>
