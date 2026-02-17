@@ -12,6 +12,7 @@ classes: wide
 
 {% include base_path %}
 
+///
 ## In preparation
 <ul>
 <li>
@@ -37,9 +38,13 @@ approximation within a geometrically intrinsic framework. <em>In preparation</em
   surfaces. <em>In preparation</em>.
 </li>
 </ul>
+///
 
 ## Submitted for peer-review
 <ul>
+<li>
+G. Botter, A. Andreanelli, <b>E. Bachini</b>, A. Cenzon, and N. Durighetto. A Generalized Unit Hydrograph Theory for Dynamic River Networks. <em>ESS Open Archive</em>, 2025. [<a href="https://essopenarchive.org/users/548509/articles/1381239-a-generalized-unit-hydrograph-theory-for-dynamic-river-networks#" target="_blank">link</a>]
+</li>
 <li>
 <b>E. Bachini</b> and M. Putti. Convergence analysis of the intrinsic surface finite element method. <em>arXiv</em>, 2024. [<a href="https://arxiv.org/abs/2203.07330" target="_blank">arXiv:2203.07330</a>]
 </li>
