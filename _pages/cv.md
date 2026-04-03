@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Extended version of the CV [here](/files/CV_Elena_Bachini.pdf) (last update: September, 2025)
+Extended version of the CV [here](/files/CV_Elena_Bachini.pdf) (last update: March, 2026)
 
 Education
 ======
@@ -45,6 +45,8 @@ Project participations
   * Research Unit <em>“Vector- and Tensor-Valued Surface PDEs” (FOR 3013)</em>, German Research Foundation DFG (PI A. Voigt)
 
 * <b> Italian projects </b>
+  * <em> "Metodi numerici integrati per la
+  simulazione e la prevenzione del dissesto idrogeologico"</em> project, INdAM-GNCS 2026 (Coord. D. Grappein)
   * <em> "Modelli matematici supportati dall’integrazione di dati per agricoltura sostenibile"</em> project, IndAM-GNCS 2025 (Coord. N. Ferro)
   * <em> "ReLUIS - Rete dei Laboratori Universitari
   di Ingegneria Sismica e Strutturale"</em> project, DPC-ReLUIS 2024-2026

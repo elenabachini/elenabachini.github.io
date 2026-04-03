@@ -43,13 +43,15 @@ approximation within a geometrically intrinsic framework. <em>In preparation</em
 ## Submitted for peer-review
 <ul>
 <li>
-G. Botter, A. Andreanelli, <b>E. Bachini</b>, A. Cenzon, and N. Durighetto. A Generalized Unit Hydrograph Theory for Dynamic River Networks. <em>ESS Open Archive</em>, 2025. 
+E. Abreu, <b>E. Bachini</b>, J. Perez, and M. Putti. A robust Lagrangian-Eulerian Finite Volume scheme for intrinsic
+    shallow water equations with wetting-and-drying transitions on
+    locally discontinuous beds.  <em>submitted</em>, 2026. 
 </li>
 <li>
-<b>E. Bachini</b> and M. Putti. Convergence analysis of the intrinsic surface finite element method. <em>arXiv</em>, 2024. [<a href="https://arxiv.org/abs/2203.07330" target="_blank">arXiv:2203.07330</a>]
+G. Botter, A. Andreanelli, <b>E. Bachini</b>, A. Cenzon, and N. Durighetto. A Generalized Unit Hydrograph Theory for Dynamic River Networks. <em>submitted</em>, 2026. 
 </li>
 <li>
-E. Abreu, <b>E. Bachini</b>, J. Perez, and M. Putti. A Lagrangian-Eulerian Finite Volume Scheme for ISWE with Localized Discontinuous Topography.  <em>SSRN</em>, 2025  [<a href="https://dx.doi.org/10.2139/ssrn.5387003" target="_blank">DOI</a>] 
+<b>E. Bachini</b> and M. Putti. Convergence analysis of the intrinsic surface finite element method. <em>submitted</em>, 2025. [<a href="https://arxiv.org/abs/2203.07330" target="_blank">arXiv:2203.07330</a>]
 </li>
 </ul>
 
