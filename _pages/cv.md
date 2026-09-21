@@ -2,25 +2,24 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_header: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
 
-Extended version of the CV [here](/files/CV_Elena_Bachini.pdf) (last update: March, 2026)
+Extended version of the CV [here](/files/CV_Elena_Bachini.pdf) (last update: September, 2026)
 
-Education
-======
+## Education
 * 2020 - Ph.D in Computational Mathematics, University of Padua, Italy 
 * 2016 - M.S. in Mathematics, University of Padua, Italy
 * 2013 - B.S. in Mathematics, University of Pisa, Italy 
 
-Research experience
-=====
-* Apr 2023 - present: Fixed-term junior assistant professor
-  * Dept. of Mathematics "Tullio Levi-Civita", University of Padua, Italy
+## Research experience
+* Apr 2023 - present: Fixed-term junior assistant professor in Numerical Analysis, University of Padua, Italy
+  * Incarico PostDoc (2026-present), Dept. of Agronomy, Food, Natural resources, Animals and Environment
+  * Rtd-A (2023-2026), Dept. of Mathematics "Tullio Levi-Civita"
 
 * Apr 2021 - Mar 2023: Research associate 
   * Institute of Scientific Computing, TU Dresden, Germany
@@ -31,13 +30,15 @@ Research experience
 * Apr - Jun 2020: Research grant on the topic <em>"Modelli 2D e 3D di flusso in mezzi porosi con anisotropia"</em>
   * Dept. of Geosciences, University of Padua, Italy
   
-## International mobility
+### International mobility
 * Sep 2018 - Mar 2019: <em>Visiting PhD student</em> at “Oden Institute for Computational Engineering and Sciences” (Working with Prof. C. Dawson). University of Texas at Austin, Austin (TX), USA
 * 23 Aug - 10 Sep 2015: <em>VSRP - Applied Differential Equations Workshop</em>. KAUST, Saudi Arabia
 * Feb - Jul 2015: <em>ERASMUS+ Programme</em>. IST, Lisbon, Portugal
 
-Project participations
-=====
+## Project participations
+* <b> as Principal Investigator</b>
+  * <em> "BLUE-HEAT: The Geometric Blueprint of Thermal Transport for Energy Innovation"</em> project, funded by Levi Cases Research Center (UniPD), 01/06/2026-31/12/2027 (PI E. Bachini)
+
 * <b> International projects</b>
   * <em> "MONUGEO - Modern numerical methods for high-fidelity simulation of geohazards"</em> project, HORIZON-MSCA-2023-SE-01, 01/03/2025-28/02/2029
   * <em> ''REACT - Digital Twins of Civil StRucturEs And Protection Systems in A ClimAte Change PerspecTive'' </em> project, TUM-IAS
@@ -54,4 +55,31 @@ Project participations
   * <em>"NEMESIS - NumErical MEthods for the SImulation of the impact of extreme hazards on Structures and landscape"</em> project, University of Padua (PI A. Larese)
   * <em>"HYDROSEM: Fluvial and tidal meanders of the Venetian-Po plain: from hydrodynamics to stratigraphy”</em> project (Progetto di Eccellenza CARIPARO 2017, PI M. Ghinassi)
   * UniPD-SID-2016 project <em>“Approximation and discretization of PDEs on Manifolds for Environmental Modeling”</em>, University of Padua (PI M. Putti)
+
+
+## Conferences and seminars
+
+### Keynote presentations
+* 7 May 2026: <em>"NIT2026 - Models and Methods of Applied Mathematics in Multiscale/Multiphysics Continuum Mechanics"</em>, Summer School "Diffusive Phenomena", Naples, Italy (Invited junior researcher)
+* 26-27 Jun 2024: AIxtreme Annual Meeting, Politecnico di Torino, Italy (Keynote presentation)
+
+### Invited seminars
+* 7 invited institute seminars
+* More than 10 invited minisymposium sessions at international conferences
+
+More details on the dissemination and organization activities in the extended CV, linked at the top of this page.
+
+<div class="info-box-row">
+  <div class="info-box-row__box">
+    <h3>Reviewer for</h3>
+    <p>More than 10 international scientific journals, including: AIMS Mathematics, Applied Mathematics and Computation, Communications in Computational Physics, Computational Geosciences, Computational Mechanics, European Journal of Environmental and Civil Engineering, ESAIM: Mathematical Modelling and Numerical Analysis, Journal of Computational Physics, Mathematical and Computational Applications, and Mathematics and Computers in Simulation.</p>
+  </div>
+  <div class="info-box-row__box">
+    <h3>Scientific affiliations</h3>
+    <ul>
+      <li>Member of the <a href="https://levicases.unipd.it/">Levi Cases Research Center</a>, University of Padua</li>
+      <li>Member of: AIMETA, GNCS-INdAM, EWM, SIAM, SIMAI, UMI</li>
+    </ul>
+  </div>
+</div>
 

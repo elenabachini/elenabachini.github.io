@@ -27,6 +27,17 @@
   }
 }
 
+/* pages without the author sidebar (see _layouts/archive.html) get the
+   full row width instead of the 10/12 reserved for when it's present */
+.archive--full {
+  @include breakpoint($large) {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    float: none;
+  }
+}
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
@@ -66,11 +77,63 @@
   }
 }
 
+.research-pub-list {
+  margin: 0.5em 0 0;
+  padding-left: 1.1em;
+  list-style-type: disc;
+
+  li {
+    margin-bottom: 0.4em;
+    line-height: 1.4;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  a {
+    text-decoration: none;
+    border-bottom: 1px solid $border-color;
+
+    &:hover {
+      border-bottom-color: $link-color-hover;
+    }
+  }
+}
+
+/* full-width block below the image/description row (see f.details
+   in _includes/feature_row): collaborators, related projects, publications */
+.archive__item-details {
+  clear: both;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  font-size: $type-size-6;
+
+  p {
+    margin: 0 0 0.5em;
+  }
+}
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
-  img {
+  img,
+  video {
     width: 100%;
+  }
+}
+
+.archive__item-caption {
+  display: block;
+  padding: 0.5em 0.15em 0;
+  font-family: $caption-font-family;
+  font-size: $type-size-7;
+  font-style: italic;
+  color: $light-gray;
+
+  a {
+    color: inherit;
+    text-decoration: underline;
   }
 }
 
@@ -156,10 +219,35 @@
    Features
    ========================================================================== */
 
+.research-overview-figure {
+  margin: 1.5em auto 2.5em;
+  max-width: 600px;
+  text-align: center;
+
+  img {
+    width: 100%;
+    height: auto;
+    border-radius: $border-radius;
+  }
+
+  figcaption {
+    margin-top: 0.75em;
+    font-family: $caption-font-family;
+    font-size: $type-size-6;
+    font-style: italic;
+    color: $light-gray;
+  }
+}
+
 .feature__wrapper {
   @include clearfix();
   margin-bottom: 2em;
-  border-bottom: 1px solid $border-color;
+}
+
+.feature__divider {
+  margin: 3.5em 0;
+  border: 0;
+  border-top: 2px solid $border-color;
 }
 
 .feature__item {
@@ -179,6 +267,12 @@
   &--left {
     @include full();
     font-size: 1.25rem;
+
+    .archive__item-title {
+      margin-top: 0;
+      margin-bottom: 1em;
+      font-size: $type-size-3;
+    }
 
     .archive__item-teaser {
       margin-bottom: 2em;
@@ -239,6 +333,288 @@
       .archive__item-body {
         margin: 0 auto;
         width: span(7 of 12);
+      }
+    }
+  }
+
+  /* About-page quick links: proper cards, 1-up on phones, up to 4-up on wide screens */
+  &--about-cards {
+    height: 100%;
+    min-width: 0;
+    margin-bottom: 0;
+    font-size: 1rem;
+
+    .archive__item {
+      display: contents;
+    }
+
+    .archive__item-link {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      height: 100%;
+      padding: 2em 1.5em;
+      text-align: center;
+      text-decoration: none;
+      color: inherit;
+      background: #fff;
+      border: 1px solid $border-color;
+      border-radius: $border-radius;
+      box-shadow: 0 2px 6px rgba(#000, 0.06);
+      transition: $global-transition;
+
+      &:visited {
+        color: inherit;
+      }
+
+      &:hover {
+        text-decoration: none;
+        box-shadow: 0 6px 16px rgba(#000, 0.12);
+        -webkit-transform: translateY(-2px);
+                transform: translateY(-2px);
+
+        .archive__item-title {
+          text-decoration: underline;
+        }
+      }
+    }
+
+    .archive__item-teaser {
+      width: 72px;
+      margin: 0 0 1.25em;
+      border-radius: 0;
+      overflow: visible;
+
+      img {
+        width: 100%;
+        height: auto;
+      }
+    }
+
+    .archive__item-body {
+      width: 100%;
+    }
+
+    .archive__item-title {
+      margin: 0;
+      font-size: $type-size-4;
+    }
+  }
+
+  /* Small equal-height stat tiles (e.g. Teaching page summary row) */
+  &--stats {
+    height: 100%;
+    min-width: 0;
+    margin-bottom: 0;
+    font-size: 1rem;
+
+    .archive__item {
+      display: contents;
+    }
+
+    .archive__item-link {
+      display: block;
+      height: 100%;
+      text-decoration: none;
+      color: inherit;
+
+      &:visited {
+        color: inherit;
+      }
+
+      &:hover {
+        text-decoration: none;
+
+        .archive__item-body {
+          box-shadow: 0 4px 12px rgba(#000, 0.1);
+        }
+
+        .archive__item-title {
+          text-decoration: underline;
+        }
+      }
+    }
+
+    .archive__item-body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+      padding: 1.5em 1em;
+      text-align: center;
+      background: $highlight-bg;
+      border-radius: $border-radius;
+      box-shadow: 0 1px 1px $highlight-shadow;
+      transition: $global-transition;
+    }
+
+    .archive__item-title {
+      margin: 0 0 0.2em;
+      font-size: $type-size-3;
+      color: $primary-color;
+    }
+
+    .archive__item-excerpt {
+      margin: 0;
+      font-size: $type-size-6;
+      color: $dark-gray;
+    }
+  }
+}
+
+.feature__wrapper--about-cards {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.25em;
+  justify-content: center;
+
+  &::after {
+    content: none;
+    display: none;
+  }
+
+  @include breakpoint(480px) {
+    grid-template-columns: repeat(4, 180px);
+    gap: 1.5em;
+  }
+}
+
+.feature__wrapper--stats {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1em;
+
+  &::after {
+    content: none;
+    display: none;
+  }
+
+  @include breakpoint(480px) {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.25em;
+  }
+}
+
+
+/*
+   Inline author header (photo + contacts above a page title, e.g. CV page)
+   ========================================================================== */
+
+.author-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.5em;
+  margin-bottom: 2em;
+  padding-bottom: 1.5em;
+  border-bottom: 1px solid $border-color;
+
+  &__avatar {
+    flex: 0 0 auto;
+
+    img {
+      display: block;
+      width: 110px;
+      height: 110px;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 1px solid $border-color;
+      padding: 4px;
+    }
+  }
+
+  &__info {
+    flex: 1 1 auto;
+    min-width: 200px;
+  }
+
+  &__name {
+    margin: 0 0 0.25em;
+  }
+
+  &__bio {
+    margin: 0 0 0.5em;
+    color: $gray;
+    font-size: $type-size-5;
+  }
+
+  &__links {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25em 1.25em;
+    font-size: $type-size-6;
+
+    li {
+      white-space: nowrap;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+
+/*
+   Two equal boxes side by side (e.g. CV page: Reviewer for / Scientific societies)
+   ========================================================================== */
+
+.info-box-row {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5em;
+  margin: 1.5em 0 2em;
+
+  &::after {
+    content: none;
+    display: none;
+  }
+
+  @include breakpoint(480px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  &__box {
+    min-width: 0;
+    padding: 1.5em;
+    background: $highlight-bg;
+    border-radius: $border-radius;
+    box-shadow: 0 1px 1px $highlight-shadow;
+
+    h3 {
+      margin-top: 0;
+      margin-bottom: 0.75em;
+      font-size: $type-size-4;
+      font-family: $sans-serif-narrow;
+    }
+
+    ul {
+      margin: 0;
+      padding-left: 1.1em;
+    }
+
+    p {
+      margin: 0;
+      font-size: $type-size-6;
+      line-height: 1.5;
+    }
+
+    li {
+      margin-bottom: 0.4em;
+      font-size: $type-size-6;
+      line-height: 1.4;
+
+      &:last-child {
+        margin-bottom: 0;
       }
     }
   }

@@ -3,7 +3,10 @@
    ========================================================================== */
 
 .masthead {
-  position: relative;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: $background-color;
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -39,6 +42,25 @@
     clear: both;
     list-style-type: none;
   }
+}
+
+.site-logo-link {
+  line-height: 1.2;
+}
+
+.site-logo-link__name {
+  display: block;
+  font-weight: 700;
+}
+
+.site-logo-link__sub {
+  display: block;
+  margin-top: 0.15em;
+  font-size: $type-size-6;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  opacity: 0.65;
 }
 
 .masthead__menu-item {

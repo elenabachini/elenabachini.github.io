@@ -96,6 +96,12 @@ $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
+/* shared light-blue highlight, matching the existing .notice--info box
+   (used for any "info box" style element: publications summary, teaching
+   stat tiles, etc.) */
+$highlight-bg               : mix(#fff, $info-color, 90%);
+$highlight-shadow           : rgba($info-color, 0.25);
+
 
 /*
    Breakpoints
@@ -114,7 +120,7 @@ $small                      : 600px !default;
 $medium                     : 768px !default;
 $medium-wide                : 900px !default;
 $large                      : 925px !default;
-$x-large                    : 1280px !default;
+$x-large                    : 1600px !default;
 
 /*
    Grid

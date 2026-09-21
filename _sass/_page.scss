@@ -20,7 +20,6 @@
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
   }
 
   .page__inner-wrap {
@@ -31,6 +30,17 @@
     .page__share {
       @include full();
     }
+  }
+}
+
+/* pages without the author sidebar (see _layouts/single.html) get the
+   full row width instead of the 10/12 reserved for when it's present */
+.page--full {
+  @include breakpoint($large) {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    float: none;
   }
 }
 

@@ -1,24 +1,64 @@
 {% include base_path %}
 
 {% if include.id %}
-  {% assign feature_row = page.[include.id] %}
+  {% assign feature_row = page[include.id] %}
 {% else %}
   {% assign feature_row = page.feature_row %}
 {% endif %}
 
-<div class="feature__wrapper">
+{% assign tile_mode = false %}
+{% if include.type == "about-cards" or include.type == "stats" %}{% assign tile_mode = true %}{% endif %}
+
+<div class="feature__wrapper{% if tile_mode %} feature__wrapper--{{ include.type }}{% endif %}">
 
   {% for f in feature_row %}
 
-    {% if f.url contains "://" %}
+    {% unless forloop.first or tile_mode %}
+      <hr class="feature__divider">
+    {% endunless %}
+
+    {% assign f_url_first_char = f.url | slice: 0, 1 %}
+    {% if f.url contains "://" or f_url_first_char == "#" %}
       {% capture f_url %}{{ f.url }}{% endcapture %}
     {% else %}
       {% capture f_url %}{{ f.url | prepend: base_path }}{% endcapture %}
     {% endif %}
 
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+      {% if tile_mode and f.url %}<a href="{{ f_url }}" class="archive__item-link">{% endif %}
       <div class="archive__item">
-        {% if f.image_path %}
+        {% unless tile_mode %}
+          {% if f.title %}
+            <h2 class="archive__item-title">{{ f.title }}</h2>
+          {% endif %}
+        {% endunless %}
+
+        {% if f.video_path %}
+          <div class="archive__item-teaser">
+            <video
+              {% if f.image_path %}
+                poster=
+                {% if f.image_path contains "://" %}
+                  "{{ f.image_path }}"
+                {% else %}
+                  "{{ f.image_path | prepend: "/images/" | prepend: base_path }}"
+                {% endif %}
+              {% endif %}
+              controls playsinline preload="metadata">
+              <source src=
+                {% if f.video_path contains "://" %}
+                  "{{ f.video_path }}"
+                {% else %}
+                  "{{ f.video_path | prepend: "/images/" | prepend: base_path }}"
+                {% endif %}
+              >
+              Your browser does not support embedded video.
+            </video>
+            {% if f.image_caption %}
+              <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+            {% endif %}
+          </div>
+        {% elsif f.image_path %}
           <div class="archive__item-teaser">
             <img src=
               {% if f.image_path contains "://" %}
@@ -27,12 +67,17 @@
                 "{{ f.image_path | prepend: "/images/" | prepend: base_path }}"
               {% endif %}
             alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            {% if f.image_caption %}
+              <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+            {% endif %}
           </div>
         {% endif %}
 
         <div class="archive__item-body">
-          {% if f.title %}
-            <h2 class="archive__item-title">{{ f.title }}</h2>
+          {% if tile_mode %}
+            {% if f.title %}
+              <h2 class="archive__item-title">{{ f.title }}</h2>
+            {% endif %}
           {% endif %}
 
           {% if f.excerpt %}
@@ -41,11 +86,18 @@
             </div>
           {% endif %}
 
-          {% if f.url %}
+          {% if f.url and tile_mode == false %}
             <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
         </div>
+
+        {% if f.details %}
+          <div class="archive__item-details">
+            {{ f.details | markdownify }}
+          </div>
+        {% endif %}
       </div>
+      {% if tile_mode and f.url %}</a>{% endif %}
     </div>
   {% endfor %}
 
