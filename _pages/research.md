@@ -51,7 +51,7 @@ solution of problems with social and environmental impacts.
 
 <figure class="research-overview-figure">
   <img src="{{ base_path }}/images/research/research-overview.jpg" alt="Overview of research themes">
-  <figcaption>An overview of my research themes</figcaption>
+  <figcaption>An overview of my research themes and philosophy</figcaption>
 </figure>
 
 {% include feature_row type="left" %}

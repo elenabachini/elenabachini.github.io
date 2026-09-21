@@ -33,7 +33,7 @@ After the PhD, I collaborated as <b>postdoctoral fellow</b> with the Dept. of Ge
 
 ## Some news
 * **YAMC 2026** - 6th Young Applied Mathematics Conference, Sept. 14-18, 2026 - Turin. Conference [website](https://sites.google.com/view/yamc/home)
-  * **Call for papers** Special issue in the Journal of Computational and Applied Mathematics: more info [here](https://www.sciencedirect.com/special-issue/335887/advances-in-applied-and-computational-mathematics-yamc-2026)
+  * **Call for papers** Special issue on Journal of Computational and Applied Mathematics: more info [here](https://www.sciencedirect.com/special-issue/335887/advances-in-applied-and-computational-mathematics-yamc-2026)
 
 * **INTRUSION 2025** Workshop. **Call for papers** Special issue on Engineering With Computers: more info [here](https://link.springer.com/collections/hjhffcbfij) 
 
