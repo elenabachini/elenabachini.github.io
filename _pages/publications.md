@@ -52,16 +52,19 @@ E. Abreu, <b>E. Bachini</b>, J. Perez, and M. Putti. A robust Lagrangian-Euleria
     shallow water equations with wetting-and-drying transitions on
     locally discontinuous beds.  <em>submitted</em>, 2026.
 </li>
-<li id="botter2026">
-G. Botter, A. Andreanelli, <b>E. Bachini</b>, A. Cenzon, and N. Durighetto. A Generalized Unit Hydrograph Theory for Dynamic River Networks. <em>submitted</em>, 2026.
-</li>
 <li id="bachini2025convergence">
 <b>E. Bachini</b> and M. Putti. Convergence analysis of the intrinsic surface finite element method. <em>submitted</em>, 2025. [<a href="https://arxiv.org/abs/2203.07330" target="_blank">arXiv:2203.07330</a>]
 </li>
 </ul>
 
+
+
+
 ## Published
 <ul>
+<li id="botter2026">
+G. Botter, A. Andreanelli, <b>E. Bachini</b>, A. Cenzon, and N. Durighetto. A Generalized Unit Hydrograph Theory for Dynamic River Networks. <em>Water Resour. Res.</em>, 62(10):e2026WR043477, 2026.  [<a href="https://doi.org/10.1029/2026WR043477" target="_blank">DOI</a>]
+</li>
 <li id="bachini2024jnm">
 <b>E. Bachini</b>, P. Bandner, T. Jankuhn, M. Nestler, S. Praetorius, A. Reusken, and A. Voigt. Diffusion of tangential tensor fields: numerical issues and influence of geometric properties. <em>J. Numer. Math.</em>, 32(1):55-75, 2024. [<a href="https://doi.org/10.1515/jnma-2022-0088" target="_blank">DOI</a>]  [<a href="http://dx.doi.org/10.5281/zenodo.7096487" target="_blank">code</a>]
 </li>

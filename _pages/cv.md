@@ -37,7 +37,7 @@ Extended version of the CV [here](/files/CV_Elena_Bachini.pdf) (last update: Sep
 
 ## Project participations
 * <b> as Principal Investigator</b>
-  * <em> "BLUE-HEAT: The Geometric Blueprint of Thermal Transport for Energy Innovation"</em> project, funded by Levi Cases Research Center (UniPD), 01/06/2026-31/12/2027 (PI E. Bachini)
+  * <em> "BLUE-HEAT: The Geometric Blueprint of Thermal Transport for Energy Innovation"</em> project, funded by Levi Cases Research Center (UniPD), 01/06/2026-31/12/2027 (co-PI E. Bachini, D. Grazioli)
 
 * <b> International projects</b>
   * <em> "MONUGEO - Modern numerical methods for high-fidelity simulation of geohazards"</em> project, HORIZON-MSCA-2023-SE-01, 01/03/2025-28/02/2029
