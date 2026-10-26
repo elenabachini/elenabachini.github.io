@@ -9,7 +9,7 @@ permalink: /publications/
 
 <div class="notice--info">
 <h4>Publication snapshot</h4>
-<p><b>9</b> published (8 in Q1 journals, per JCR) &middot; <b>3</b> under review</p>
+<p><b>10</b> published (9 in Q1 journals, per JCR) &middot; <b>2</b> under review</p>
 <p><b>180</b> citations, h-index 8 (Google Scholar) &middot; <b>95</b> citations, h-index 6 (Scopus)</p>
 </div>
 
