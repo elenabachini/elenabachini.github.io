@@ -9,9 +9,9 @@ feature_row:
   - title: "6"
     excerpt: "Theses/Internships supervised"
     url: "#thesis-supervision"
-  - title: "1"
-    excerpt: "Postdocs supervised"
-    url: "#postdocs-supervision"
+  - title: "2"
+    excerpt: "Pre-/Post-docs supervised"
+    url: "#research-fellow"
 ---
 
 {% include base_path %}
@@ -19,7 +19,7 @@ feature_row:
 {% include feature_row type="stats" %}
 
 ## Doctoral courses
-* from a.y. 2024/25
+* a.y. 2024/25, 2025/26, 2026/27
     * <em>"Modeling and big data for biological
   systems"</em>, doctoral course in Crop Science, University of
   Padua. (Co-organizer and teacher)
@@ -63,6 +63,9 @@ feature_row:
 
 ## Internship supervision
   * B. Robard (2026), master student at CY-TECH, Paris (France), 10-weeks summer project
+
+## Research fellow (pre-graduate)
+  * V. Storari (2026/27), within the “BLUE-HEAT: The Geometric Blueprint of Thermal Transport for Energy Innovation" project (co-supervision)
 
 ## Postdocs supervision
   * F. Muraro (2025), within the “RETURN - multi-Risk sciEnce for resilienT commUnities undeR a changiNg climate” project (co-supervision)

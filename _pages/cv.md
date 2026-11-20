@@ -72,7 +72,7 @@ More details on the dissemination and organization activities in the extended CV
 <div class="info-box-row">
   <div class="info-box-row__box">
     <h3>Reviewer for</h3>
-    <p>More than 10 international scientific journals, including: AIMS Mathematics, Applied Mathematics and Computation, Communications in Computational Physics, Computational Geosciences, Computational Mechanics, European Journal of Environmental and Civil Engineering, ESAIM: Mathematical Modelling and Numerical Analysis, Journal of Computational Physics, Mathematical and Computational Applications, and Mathematics and Computers in Simulation.</p>
+    <p>More than 10 international scientific journals, including: AIMS Mathematics, Applied Mathematics and Computation, Communications in Computational Physics, Computational Geosciences, Computational Mechanics, European Journal of Environmental and Civil Engineering, ESAIM: Mathematical Modelling and Numerical Analysis, Journal of Computational Physics, Mathematical and Computational Applications, Mathematics and Computers in Simulation, and Water Resources Research.</p>
   </div>
   <div class="info-box-row__box">
     <h3>Scientific affiliations</h3>

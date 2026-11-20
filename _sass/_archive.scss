@@ -276,17 +276,46 @@
 
     .archive__item-teaser {
       margin-bottom: 2em;
+
+      /* every figure gets the same 4:3 box, whatever the source image's
+         proportions, so all sections look alike; the whole figure stays
+         visible (contain) on the white page background */
+      img {
+        display: block;
+        aspect-ratio: 4 / 3;
+        object-fit: contain;
+        background: $background-color;
+      }
     }
 
+    .archive__item-excerpt {
+      font-size: 0.8em; /* = 1rem: same size as the page's body text */
+    }
+
+    /* figure and text side by side: a fixed figure column, and the text
+       takes all the remaining width (no empty right gutter), vertically
+       centred on the figure */
     @include breakpoint($small) {
+      .archive__item {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+      }
+
+      .archive__item-title,
+      .archive__item-details {
+        flex: 0 0 100%;
+      }
+
       .archive__item-teaser {
-        @include span(5 of 12);
+        flex: 0 0 40%;
+        margin-bottom: 0;
       }
 
       .archive__item-body {
-        @include span(7 of 12 last);
-        @include prefix(0.5 of 12);
-        @include suffix(1 of 12);
+        flex: 1 1 0;
+        min-width: 0;
+        padding-left: 2em;
       }
     }
   }
