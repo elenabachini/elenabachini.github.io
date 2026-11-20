@@ -10,7 +10,7 @@ permalink: /publications/
 <div class="notice--info">
 <h4>Publication snapshot</h4>
 <p><b>10</b> published (9 in Q1 journals, per JCR) &middot; <b>2</b> under review</p>
-<p><b>184</b> citations, h-index 8 (Google Scholar) &middot; <b>97</b> citations, h-index 6 (Scopus)</p>
+<p><b>187</b> citations, h-index 8 (Google Scholar) &middot; <b>97</b> citations, h-index 6 (Scopus)</p>
 </div>
 
 {% if author.googlescholar %}
@@ -52,9 +52,6 @@ E. Abreu, <b>E. Bachini</b>, J. Perez, and M. Putti. A robust Lagrangian-Euleria
     shallow water equations with wetting-and-drying transitions on
     locally discontinuous beds.  <em>submitted</em>, 2026.
 </li>
-<li id="bachini2025convergence">
-<b>E. Bachini</b> and M. Putti. Convergence analysis of the intrinsic surface finite element method. <em>submitted</em>, 2025. [<a href="https://arxiv.org/abs/2203.07330" target="_blank">arXiv:2203.07330</a>]
-</li>
 </ul>
 
 
@@ -62,6 +59,9 @@ E. Abreu, <b>E. Bachini</b>, J. Perez, and M. Putti. A robust Lagrangian-Euleria
 
 ## Published
 <ul>
+<li id="bachini2025convergence">
+<b>E. Bachini</b> and M. Putti. Convergence analysis of the intrinsic surface finite element method. <em>IMA J. Numer. Anal.</em> (<em>submitted</em>, Aug.2025 - <em>accepted</em>, Nov. 2026). [<a href="https://arxiv.org/abs/2203.07330" target="_blank">arXiv:2203.07330</a>]
+</li>
 <li id="botter2026">
 G. Botter, A. Andreanelli, <b>E. Bachini</b>, A. Cenzon, and N. Durighetto. A Generalized Unit Hydrograph Theory for Dynamic River Networks. <em>Water Resour. Res.</em>, 62(10):e2026WR043477, 2026.  [<a href="https://doi.org/10.1029/2026WR043477" target="_blank">DOI</a>]
 </li>
